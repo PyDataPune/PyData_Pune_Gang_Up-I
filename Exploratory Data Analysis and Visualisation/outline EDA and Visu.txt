@@ -1,0 +1,12 @@
+Hi,
+This is the outline of topics I would cover:
+	1.	What is EDA(Exploratory Data Analysis)?
+	2.	Why EDA?
+	3.	Various Steps/tasks in EDA
+	4.	How visualizations help in EDA	?
+			a. Univariate / Bivariate visualizations
+			b. Examples using python ibraries for visualization (matplotlib,seaborn)
+	5.	Various online links/resources regarding EDA/visualization
+
+Thanks,
+Ketul Gupta
